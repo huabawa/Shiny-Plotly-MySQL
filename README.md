@@ -10,3 +10,5 @@ How to create a shiny dashboard https://rstudio.github.io/shinydashboard/get_sta
 How to create a basic datatable with Shiny http://shiny.rstudio.com/gallery/basic-datatable.html
 
 Markdown reference https://en.support.wordpress.com/markdown-quick-reference/
+
+How to enable SSH on mac http://osxdaily.com/2016/08/16/enable-ssh-mac-command-line/
